@@ -1,13 +1,15 @@
-# Scenario
+# Chipotle Sales
+## Scenario
 You are a financial data analyst at Chipotle and your manager has tasked you with analyzing the most recent sales numbers.
 She has provided the following set of questions she would like answered.
 
-Get the Data
+### Get the Data
 url = 'https://raw.githubusercontent.com/justmarkham/DAT8/master/data/chipotle.tsv'
+
 chipo = pd.read_csv(url, sep = '\t')
 
 
-Challenge Questions:
+### Challenge Questions:
 1. Which was the most-ordered item?
 2. For the most-ordered item, how many items were ordered?
 3. What was the most ordered item in the choice_description column?
