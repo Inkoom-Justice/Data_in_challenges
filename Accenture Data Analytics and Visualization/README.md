@@ -1,4 +1,4 @@
-# Accenture Data Analysis  
+# Accenture North America Data Analysis and Visualization 
 ### Client name: Social Buzz  
 ### Client industry: Social media & content creation  
 ### Year established: 2010  
