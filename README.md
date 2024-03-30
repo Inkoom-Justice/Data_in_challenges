@@ -3,10 +3,10 @@ Welcome to my Data Analytics and Visualization Portfolio on GitHub. This reposit
 
 ## Projects Overview
 ### 1. Accenture Data Analytics and Visualization
-An in-depth analysis aimed at uncovering insights from Accenture's operational data to enhance business processes and client outcomes. Technologies used: Python, Tableau.
+An in-depth analysis aimed at uncovering insights from Accenture's operational data to enhance business processes and client outcomes. Technologies used: Python, Excel.
 
 ### 2. Alcohol Consumption Data Analysis
-This project explores alcohol consumption patterns across various demographics, identifying public health insights and consumption trends. Technologies used: R, ggplot2.
+This project explores alcohol consumption patterns across various demographics, identifying public health insights and consumption trends. Technologies used: Python.
 
 ### 3. Baby Names Data Analysis
 A trend analysis of baby names over decades, highlighting cultural shifts, regional preferences, and the impact of global events on naming practices. Technologies used: Python, Pandas.
@@ -27,30 +27,32 @@ A showcase of advanced Excel capabilities, including complex formulas, pivot tab
 Insights into investor funds through performance metrics, risk assessment, and investor behavior trends. Technologies used: Python, Jupyter Notebooks.
 
 ### 9. Roller Coaster Analysis
-A fun dive into roller coaster data, analyzing speed, height, length, and satisfaction ratings to determine popular features. Technologies used: R, Shiny.
+A fun dive into roller coaster data, analyzing speed, height, length, and satisfaction ratings to determine popular features. Technologies used: Python.
 
 ### 10. TMDB-Movies Data Analysis
 A comprehensive analysis of The Movie Database (TMDB), focusing on movie popularity, revenue, genres, and ratings over time. Technologies used: Python, Pandas, Matplotlib.
 
 ### 11. Tata Data Visualization
-Visualizations providing insights into Tata Group's businesses, supporting strategic decision-making and highlighting opportunities for growth. Technologies used: Tableau, Power BI.
+Visualizations providing insights into Tata Group's businesses, supporting strategic decision-making and highlighting opportunities for growth. Technologies used: Python, Power BI.
 
 ### 12. Titanic Data Analysis
-An analysis of the Titanic dataset to uncover survival factors, demographics, and ticket class distribution among the passengers. Technologies used: Python, Scikit-learn.
+An analysis of the Titanic dataset to uncover survival factors, demographics, and ticket class distribution among the passengers. Technologies used: Python, Pandas, Matplotlib.
 
 ### 13. Twitter Data Analysis
-This project analyzes Twitter data to understand hashtag trends, conduct sentiment analysis, and gauge the impact of social media campaigns. Technologies used: Python, Tweepy.
+This project analyzes Twitter data to understand hashtag trends, conduct sentiment analysis, and gauge the impact of social media campaigns. Technologies used: Python.
 
 ### 14. US Used Cars Data Analysis
 An in-depth look at the US used car market, analyzing pricing trends, popular models, and factors affecting car values. Technologies used: Python, Seaborn, Matplotlib.
 
 ### 15. Wine Analysis
-Exploring the characteristics of various wines, including quality ratings, grape varieties, and regions, to identify quality factors. Technologies used: R, ggplot2.
+Exploring the characteristics of various wines, including quality ratings, grape varieties, and regions, to identify quality factors. Technologies used: Python.
 
 #### Installation and Usage
 Each project in this portfolio is contained in its subdirectory, complete with a dedicated README for setup instructions, dependencies, and how to run the analysis. To clone this repository and explore the projects, use the following command:
 
-gh repo clone Inkoom-Justice/Data_in_challenges / https://github.com/Inkoom-Justice/Data_in_challenges.git
+gh repo clone Inkoom-Justice/Data_in_challenges
+##### OR
+https://github.com/Inkoom-Justice/Data_in_challenges.git
 
 #### Contributing
 While this is a personal portfolio, contributions in the form of feedback, bug reports, or suggestions for additional analysis are welcome. Please feel free to open an issue or submit a pull request.
