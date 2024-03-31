@@ -1,65 +1,52 @@
-# Accenture North America Data Analysis and Visualization 
-### Client name: Social Buzz  
-### Client industry: Social media & content creation  
-### Year established: 2010  
-### Location of HQ: San Francisco  
-### Number of employees: 250  
-## Client background:  
-<div style="text-align: justify">
-  Social Buzz was founded by two former engineers from a large social media conglomerate, one
-  from London and the other from San Francisco. They left in 2008 and both met in San
-  Francisco to start their business. They started Social Buzz because they saw an opportunity to
-  build on the foundation that their previous company started by creating a new platform where
-  content took center stage. Social Buzz emphasizes content by keeping all users anonymous,
-  only tracking user reactions on every piece of content. There are over 100 ways that users can
-  react to content, spanning beyond the traditional reactions of likes, dislikes, and comments.
-  This ensures that trending content, as opposed to individual users, is at the forefront of user feeds.
-  Over the past 5 years, Social Buzz has reached over 500 million active users each month.
-  They have scaled quicker than anticipated and need the help of an advisory firm to oversee
-  their scaling process effectively. 
-  
-  Due to their rapid growth and digital nature of their core product, the amount of data that they
-  create, collect and must analyze is huge. Every day over 100,000 pieces of content, ranging
-  from text, images, videos and GIFs are posted. All of this data is highly unstructured and
-  requires extremely sophisticated and expensive technology to manage and maintain. Out of the
-  250 people working at Social Buzz, 200 of them are technical staff working on maintaining this
-  highly complex technology.  
-  
-  Up until this point, they have not relied on any third party firms to help them get to where
-  they are. However there are 3 main reasons why they are now looking at bringing in external
-  expertise:    
-  
-  1) They are looking to complete an IPO by the end of next year and need guidance to
-  ensure that this goes smoothly.
+# Investor Funds Analysis
+This project aims to analyze and summarize data about investor funds. The dataset used in this analysis contains information about equity, bond, and hybrid funds over a certain period of time. The analysis provides insights into the frequency of the dataset, the data type of the index, and sets the index to a datetime format for further analysis. Additionally, this README suggests important questions that can be asked by investment firms or investors and provides Python code snippets to answer those questions.
 
-  3) They are still a small company and do not have the resources to manage the scale that
-  they are currently at. They could hire more people, but they want an experienced
-  practice to help instead.
+## Dataset
+The dataset used in this analysis is sourced from the Investor Flow of Funds US repository. It contains the following columns:
 
-  5) They want to learn data best practices from a large corporation. Due to the nature of
-  their business, they have a massive amount of data so they are keen onunderstanding how the world's biggest companies manage the challenges of big
-  data.
+Date: The date of the fund data.
+Total Equity: Total equity fund value.
+Domestic Equity: Value of domestic equity funds.
+World Equity: Value of world equity funds.
+Hybrid: Value of hybrid funds.
+Total Bond: Total bond fund value.
+Taxable Bond: Value of taxable bond funds.
+Municipal Bond: Value of municipal bond funds.
+Total: Total fund value.
 
-  To start our engagement with Social Buzz, we are running a 3 month initial project in order
-  to prove to them that we are the best firm to work with. They are expecting the following: 
-  
-  - An audit of their big data practice  
-  - Recommendations for a successful IPO  
-  - An analysis of their content categories that highlights the top 5 categories with the
-  largest aggregate popularity  
-  Tasks to be delegated:  
-  - Creation of an up-to-date big data best practices presentation  
-  - Extraction of sample data sets using SQL  
-  - On-site audit of their data-center  
-  - Merging of sample data set tables  
-  -  Virtual session with Social Buzz team to present previous client success stories relevant
-  to them  
-  - Preparation of best practice document for IPO  
-  - Loading of sample data sets into Accenture sandbox database  
-  - Technology architecture workshop with Social Buzz Data Team to understand their
-  technology landscape  
-  - Stress testing of their technology to identify weak spots  
-  - Communication with previous IPO companies within our client base for reference stories -
-  Analysis of sample data sets with visualizations  
-  - Full documentation of the process that we can guide them through for IPO  
-</div>
+## Files
+Investor_Funds.ipynb: Jupyter Notebook containing the Python code for data analysis.
+
+Three datasets namely Reaction.csv, Content.csv and ReactionTypes.csv
+
+PowerPoint file for the communication of findings.
+
+## Analysis
+The analysis performed on the dataset includes by not limited to the following:
+
+Frequency of the Dataset: Determines the time period between each row in the dataset.
+Data Type of the Index: Identifies the data type of the index column.
+Setting the Index to a Datetime Format: Converts the index column to a datetime format for further analysis.
+
+### Data Cleaning Process
+The data had no missing values or any form of issues that could hinder the analysis process.
+Hence, the dataset was used without any cleaning. "df.info()" was the python code used to identify whether or not the dataset
+assigned df has problem.
+
+### findings
+We observed the following:
+
+1. The firm has a negative equity which is very bad for business. The way forward for the firm is to; 
+
+a) Restructure: The firm might undergo restructuring to reduce its debt, cut costs, and streamline operations to return to profitability.
+
+b) Raise Capital: It might seek to raise capital through equity or convertible debt to improve its balance sheet, though this can be challenging.
+
+c) Asset Sales: Selling off non-core or underperforming assets to reduce liabilities and improve the equity position might be considered.
+
+2. Total equity investment has not been stable for years. And this can as a result of many different factors.
+
+3. There is more of taxable bonds that municipal bonds. One of the reason for this could be; Tax Treatment: Municipal bonds are issued by state and local governments and are generally exempt from federal income taxes. This tax-exempt status allows municipalities to offer lower yields compared to taxable bonds. Taxable bonds, on the other hand, are subject to federal income taxes, which may result in higher yields to attract investors.
+
+### Conclusion
+This project provides an analysis of investor funds, including the frequency of the dataset, the data type of the index, and setting the index to a datetime format. It also suggests important questions that investment firms or investors can ask and provides Python code snippets to answer those questions. By leveraging the provided code and exploring the dataset further, investment firms and investors can gain valuable insights into fund trends and make informed decisions.
