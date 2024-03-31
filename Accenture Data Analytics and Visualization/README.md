@@ -50,3 +50,6 @@ c) Asset Sales: Selling off non-core or underperforming assets to reduce liabili
 
 ### Conclusion
 This project provides an analysis of investor funds, including the frequency of the dataset, the data type of the index, and setting the index to a datetime format. It also suggests important questions that investment firms or investors can ask and provides Python code snippets to answer those questions. By leveraging the provided code and exploring the dataset further, investment firms and investors can gain valuable insights into fund trends and make informed decisions.
+
+### Contact
+For addition, subtraction or any form of contribution to this project please contact me via email justiceinkoom55@gmail.com
