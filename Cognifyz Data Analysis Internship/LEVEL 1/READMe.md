@@ -1,4 +1,6 @@
-# LEVEL 1
+# COGNIFYZ TECHNOLOGIES DATA ANALYSIS WITH PYTHON INTERNSHIP
+This project is based on a restaurant dataset.
+## LEVEL 1
 This level is about Top cuisine, City Analysis, Price Range Distribution and Online Delivery.  
 
 ##   QUESTIONS ANSWERED
