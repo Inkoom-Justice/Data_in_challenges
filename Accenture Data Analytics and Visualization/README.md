@@ -1,6 +1,6 @@
 # Social Buzz Content Analysis
 
-This repository contains the analysis of Social Buzz's content categories conducted by Accenture. The project aimed to audit Social Buzz's big data practices, provide IPO recommendations, and identify the top five content categories based on reaction scores.
+This folder contains the analysis of Social Buzz's content categories conducted by Accenture. The project aimed to audit Social Buzz's big data practices, provide IPO recommendations, and identify the top five content categories based on reaction scores.
 
 ## Project Structure
 
