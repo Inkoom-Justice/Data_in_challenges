@@ -3,12 +3,13 @@ Welcome to my Data Analytics and Visualization Portfolio on GitHub. This reposit
 
 ## Recent Projects  
 ### 1. Financial Data Analysis
-Focusses on uncovering the traits that indicates a borrower's inability to repay his or her debts to help financial institutions in designing robust loan eligibility criteria and loan agreements to reduce rate of bad debts to it barest minimum.  
+Focusses on uncovering the traits that indicates a borrower's inability to repay his or her debts to help financial institutions in designing robust loan eligibility criteria and loan agreements to reduce rate of bad debts to it barest minimum. Technologies used: SQL (PostgreSQL)
 
 ### 2. Motorcycle Data Analysis
-An examination on motorcycle spare part selling company's dataset to uncover which wholesale product-line rakes in more revenue across the various warehouses. Additionally, sales performance, warehouse efficiency, etc were all done to acertain more insights to foster business improvement.  
+An examination on motorcycle spare part selling company's dataset to uncover which wholesale product-line rakes in more revenue across the various warehouses. Additionally, sales performance, warehouse efficiency, etc were all done to acertain more insights to foster business improvement. Technologies used: SQL (PostgreSQL)
 
-### 3. Cognifyz Technologies Data Analysis
+### 3. Cognifyz Data Analysis Internship
+Looked at foundational data insights, data-driven decision making and predictive and inferential analysis. Insights needed to aid informed decision making on restaurant business expansion, target location and competive positioning together with roadmap for scaling and replicating business success were realized from this project. Technologies used: Python
 
 
 ## Projects Overview
