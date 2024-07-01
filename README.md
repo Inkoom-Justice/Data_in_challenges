@@ -1,6 +1,11 @@
 # Data Analytics and Visualization Portfolio
 Welcome to my Data Analytics and Visualization Portfolio on GitHub. This repository is a comprehensive collection of projects demonstrating my skills and expertise in data analytics, visualization, and data science. Each project is a deep dive into a unique dataset, uncovering insights through meticulous analysis and presenting the findings in an accessible and informative manner. Below, you will find a brief overview of each project included in this portfolio.
 
+## Recent Projects  
+### 1. Financial Data Analysis
+
+### 2. Motorcycle Data Analysis
+
 ## Projects Overview
 ### 1. Accenture Data Analytics and Visualization
 An in-depth analysis aimed at uncovering insights from Accenture's operational data to enhance business processes and client outcomes. Technologies used: Python, Excel.
