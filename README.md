@@ -3,8 +3,13 @@ Welcome to my Data Analytics and Visualization Portfolio on GitHub. This reposit
 
 ## Recent Projects  
 ### 1. Financial Data Analysis
+Focusses on uncovering the traits that indicates a borrower's inability to repay his or her debts to help financial institutions in designing robust loan eligibility criteria and loan agreements to reduce rate of bad debts to it barest minimum.  
 
 ### 2. Motorcycle Data Analysis
+An examination on motorcycle spare part selling company's dataset to uncover which wholesale product-line rakes in more revenue across the various warehouses. Additionally, sales performance, warehouse efficiency, etc were all done to acertain more insights to foster business improvement.  
+
+### 3. Cognifyz Technologies Data Analysis
+
 
 ## Projects Overview
 ### 1. Accenture Data Analytics and Visualization
